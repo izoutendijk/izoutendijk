@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @izoutendijk
 - 👀 I’m interested in life sciences and coding (eventually bioinformatics)
-- 🌱 I’m currently learning coding with the SheCodes program
+- 🌱 I’m currently learning coding with the SheCodes program (Plus)
 - 📫 How to reach me: instagram or email!
 
 <!---
